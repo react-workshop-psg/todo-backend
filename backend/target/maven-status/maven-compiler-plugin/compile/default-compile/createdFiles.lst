@@ -1,0 +1,6 @@
+com/rest/webservices/TodoWebServicesApplication.class
+com/rest/webservices/TodoWebServicesApplication$1.class
+com/rest/webservices/service/TodoService.class
+com/rest/webservices/controller/TodoController.class
+com/rest/webservices/repository/TodoRepository.class
+com/rest/webservices/model/Todo.class
